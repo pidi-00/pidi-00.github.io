@@ -1,1 +1,3 @@
+# First blog post to try out github pages
 
+Both Jeremy Howard and Brian Lovell, my professor in the course $\textbf{ELEC4630 Image Processing and Computer Vision}$, recommended to set up a personal blog site to document the learning process in the fast ai course I am currently undertaking. So here I am, and this is officially my first blog post. In this blog I will try to put words on what I learn during the course which hopefully will make the learning process better. The setup to make this blog was pretty easy as I just followed the intructions on this website I will soon try to provide a link to. 
