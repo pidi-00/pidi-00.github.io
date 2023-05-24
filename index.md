@@ -7,7 +7,7 @@ Hello and welcome to this blog. I am a masterstudent in electronics systems desi
 
 
 
-[link to fast.ai](https://www.fast.ai). 
+Link to fast ai blog featuring Jeremy Howard and others: [link to fast.ai](https://www.fast.ai). 
 
 
 
