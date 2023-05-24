@@ -5,6 +5,8 @@ First of all I must say I am pretty mind blown from how far deep learning have g
 Quickly summarized the joke is basically that a scientist needs about five years of research to check if a photo is of a bird. In other words explaining that it is practically impossible. 
 However, today Jeremy does excatly that in about the first two minutes of his first lesson. That is pretty remarkable. 
 
+<img src="../images/Joke.png" alt="Joke" width="400" height="500">
+
 He does this through libraries such as fastbook and duckduckgo. These are libraries that allows you to scrape the web for images of interest. Furthermore high level deep learning algorithms that is built on top of pytorch can be used through the fastai library in order to classify the images scraped from the web. Pretty insane! 
 
 This was all I wanted to say today, stay tuned for further updates as I delve deeper into the academic material!
